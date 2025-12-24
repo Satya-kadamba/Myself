@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgba(248, 249, 228, 0.993);
+  font-family: "Times New Roman", Times, serif;
+}
+
+header {
+  color: rgba(45, 45, 39, 0.993);
+  background-color: rgb(148, 151, 127);
+  padding: 1%;
+}
+
+header p {
+  font-size: 1.1rem;
+  color: black;
+  font-style: italic;
+}
+
+.nav-heads ul {
+  list-style: none;
+  display: flex;
+  margin-top: 10px;
+}
+
+.nav-heads li {
+  margin: 0px 120px;
+}
+
+.nav-heads a {
+  text-decoration: none;
+  font-size: large;
+  color: rgb(61, 61, 61);
+}

@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Satya-kadamba
--  Computer science 🧑‍💻
--  currently learning Java 
--  contact me through - kadambasatyabhaskar@gmail.com
+- Trainee at revature company, eager to deploy into client company Cognizant
 
 <!---
 Satya-kadamba/Satya-kadamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
